@@ -106,6 +106,10 @@ li {
     text-align: center;
     color: gray;
    padding-top: 15px;
+
+}
+li button {
+    margin-right: 2em;
 }
 
 main {
@@ -131,6 +135,14 @@ footer button {
 #footLogo{
     padding-top: 30px;
 padding-left: 450px;
+}
+
+#footLogo{
+padding-left: 450px;
+}
+
+div ul li input{
+    padding-right: 100px;
 }
 
 div ul li input{
