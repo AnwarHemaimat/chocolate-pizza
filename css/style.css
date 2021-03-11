@@ -39,6 +39,12 @@ h3{
     color: grey;
     font-family: 'Strait', sans-serif;
     font-size: 10px;
+    
+}
+header h3{
+    padding-left: 50px;
+    margin-top: 0;
+    font-size: 9px;
 }
 
 .articletitle {
@@ -100,6 +106,7 @@ li {
     text-align: center;
     color: gray;
    padding-top: 15px;
+
 }
 li button {
     margin-right: 2em;
@@ -123,7 +130,13 @@ footer button {
     padding-right: 3px;
     padding-top: 3px;
     padding-bottom: 3px;
+   
 }
+#footLogo{
+    padding-top: 30px;
+padding-left: 450px;
+}
+
 #footLogo{
 padding-left: 450px;
 }
@@ -131,10 +144,7 @@ padding-left: 450px;
 div ul li input{
     padding-right: 100px;
 }
- 
 
-
-
-
-
-
+div ul li input{
+    padding-right: 100px;
+}
